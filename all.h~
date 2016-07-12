@@ -1,0 +1,16 @@
+#ifndef ALL_H_
+#define ALL_H_
+
+#include "myvector.h"
+#include "ray.h"
+#include "scene.h"
+#include "sphere.h"
+#include "camera.h"
+#include "trace.h"
+#include "intersectresult.h"
+#include "mymat.h"
+#include "object.h"
+#include "color.h"
+#include "material.h"
+#include "plane.h"
+#endif

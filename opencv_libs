@@ -1,0 +1,1 @@
+-L/usr/local/lib -I/usr/local/include/ -lopencv_core -lopencv_features2d -lopencv_nonfree -lopencv_highgui -Wl,-rpath=/usr/local/lib

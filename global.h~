@@ -1,0 +1,7 @@
+#ifndef GLOBAL_H_
+#define GLOBAL_H_
+#include "myvector.h"
+
+const Vec ZERO3(0.0, 0.0, 0.0);
+const double DEVIANCE = 1e-6;
+#endif
